@@ -1,0 +1,30 @@
+{
+  "name": "gun-cli",
+  "version": "0.0.1",
+  "description": "my cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liubiggun/gun.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "liubiggun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liubiggun/gun/issues"
+  },
+  "homepage": "https://github.com/liubiggun/gun#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "baidu-aip-sdk": "^2.3.3",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.2",
+    "pdf-image": "^2.0.0",
+    "yargs": "^12.0.2"
+  }
+}
