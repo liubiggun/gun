@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/liubiggun/gun#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "baidu-aip-sdk": "^2.3.3",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.4",
     "moment": "^2.22.2",
     "pdf-image": "^2.0.0",
-    "yargs": "^12.0.2"
+    "yargs": "^15.4.1"
   }
 }
